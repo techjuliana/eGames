@@ -37,8 +37,20 @@ export default function App() {
           }}
         />
 
-        <Stack.Screen name="cadastro" component={Cadastro} />
-        <Stack.Screen name="login" component={Login} />
+        <Stack.Screen name="cadastro" component={Cadastro}  options={{
+          title: 'Voltar',
+          headerStyle:{
+            backgroundColor: '#121212'
+          },
+          headerTintColor: '#fff',
+        }}/>
+        <Stack.Screen name="login" component={Login} options={{
+          title: 'Voltar',
+          headerStyle:{
+            backgroundColor: '#121212'
+          },
+          headerTintColor: '#fff',
+        }}/>
       </Stack.Navigator>
     </NavigationContainer>
   );
