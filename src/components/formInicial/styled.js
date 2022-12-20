@@ -18,7 +18,7 @@ export const styles = StyleSheet.create({
     fontSize: 15,
     textAlign: "center",
     marginTop: 10,
-    margin: 65,
+    margin: 5,
     width: 300,
   },
 });
