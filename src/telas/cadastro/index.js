@@ -62,17 +62,11 @@ export default function Cadastro() {
         </Text>
       </View>
 
-      <Text style={styles.textoForm}>E-mail:</Text>
-      <TextInput style={styles.input} placeholder="Digite seu e-mail" />
-
-      <Text style={styles.textoForm}>Senha:</Text>
-      <TextInput style={styles.input} placeholder="Digite seu e-mail" />
-
       <TouchableOpacity
         style={styles.botaoEntrar}
-        onPress={() => navigation.navigate("breve")}
+        onPress={() => navigation.navigate("cadastroFinalizacao")}
       >
-        <Text style={styles.textoBotao}>Cadastrar</Text>
+        <Text style={styles.textoBotao}>Continuar cadastro</Text>
       </TouchableOpacity>
     </View>
   );
