@@ -5,6 +5,27 @@ export const styles = StyleSheet.create({
     backgroundColor: "#101114",
     height:'100%',
   },
+  containerEstudante: {
+    display: "flex",
+    flexDirection: "row",
+    justifyContent:"space-around",
+    margin:15,
+  },
+
+  containerGenerosJogos: {
+    display: "flex",
+    flexDirection: "column",
+    justifyContent:"center",
+    margin:15,
+  },
+
+  containerLimiteCredito: {
+    display: "flex",
+    flexDirection: "column",
+    justifyContent:"center",
+    margin:20,
+  },
+  
   textoForm: {
     marginTop:20,
     marginBottom: 3,
@@ -35,5 +56,20 @@ export const styles = StyleSheet.create({
   textoBotao: {
     color: "#fff",
     fontWeight: "bold",
+  },
+
+  textoPerguntas: {
+    textAlign: 'center', 
+    fontSize: 16, 
+    color: "#fff",
+    margin:10,
+  },
+
+  selecioneJogo: {
+    textAlign: 'center', 
+    fontSize: 16, 
+    color: "#fff",
+    margin:10,
+    backgroundColor:'#B3B0B8',
   },
 });
