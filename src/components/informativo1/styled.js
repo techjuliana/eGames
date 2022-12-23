@@ -3,8 +3,7 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
   container: {
     backgroundColor: "#101114",
-    width: "100%",
-    display: "flex",
+    height:'100%',
     flexDirection: "column",
     alignItems: "center",
   },
@@ -14,7 +13,7 @@ export const styles = StyleSheet.create({
   },
 
   imagem: {
-    marginTop: 80,
+    marginTop: 50,
   },
 
   circle: {

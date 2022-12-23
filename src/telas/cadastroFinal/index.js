@@ -12,11 +12,11 @@ export default function CadastroFinal() {
   return (
     <View style={styles.container}>
       <FormInicial />
-      <Text style={styles.textoForm}>E-mail:</Text>
-      <TextInput style={styles.input} placeholder="Digite seu e-mail" />
+      <Text style={styles.textoForm}>Cadastre seu melhor e-mail:</Text>
+      <TextInput style={styles.input} placeholder="Digite seu melhor e-mail" />
 
-      <Text style={styles.textoForm}>Senha:</Text>
-      <TextInput style={styles.input} placeholder="Digite seu e-mail" />
+      <Text style={styles.textoForm}>Crie uma senha:</Text>
+      <TextInput style={styles.input} placeholder="Digite sua senha" />
 
       <TouchableOpacity
         style={styles.botaoEntrar}
