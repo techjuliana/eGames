@@ -1,11 +1,13 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
+import Detalhes from '../../components/detalhes';
 import Logo from "./../../assets/logoCarregamento.svg";
 export default function EmBreve(){
   return(
     <View style={styles.container}>
       <Logo style={styles.logo} />
       <Text  style={styles.texto}>Em Breve</Text>
+      <Detalhes/>
     </View>
   )
 }

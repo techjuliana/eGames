@@ -12,7 +12,6 @@ const Stack = createNativeStackNavigator();
 
 export default function Routes() {
   return (
-
       <Stack.Navigator>
         <Stack.Screen
           name="primeiro"
@@ -85,6 +84,5 @@ export default function Routes() {
           }}
         />
       </Stack.Navigator>
-    
   );
 }
