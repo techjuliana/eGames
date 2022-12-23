@@ -1,7 +1,4 @@
-import { useState } from "react";
-import { TextInput, Text, View, TouchableOpacity, Switch } from "react-native";
-import Slider from "@react-native-community/slider";
-import { Picker } from "@react-native-picker/picker";
+import { TextInput, Text, View, TouchableOpacity } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 import FormInicial from "../../components/formInicial";
 import { styles } from "./styled";
