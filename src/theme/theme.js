@@ -1,4 +1,5 @@
 export const tema = {
+
   white: "#FFFFFF",
   gray1: "#B3B0B8",
   gray2: "#7C7A80",

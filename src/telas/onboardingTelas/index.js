@@ -22,7 +22,7 @@ const Dots = ({ selected }) => {
 
 const Skip = ({ ...props }) => (
   <TouchableOpacity style={{ marginHorizontal: 10 }} {...props}>
-    <Text style={{ fontSize: 18, fontWeight: "bold", color: "#FFFFFF" }}>
+    <Text style={{ fontSize: 18, fontWeight: "bold", color:"#fff"  }}>
       Pular
     </Text>
   </TouchableOpacity>
