@@ -3,9 +3,31 @@
 App eGames
 
 <h3 align="center">
-React Native
+Feito em React Native, usando API, StyledComponents, Routes, Themes, Navegação por Stack, Loading de carregamento, Modal detalhes,
 
-### Projeto Design ⬇️
+### Projeto Design ONBOARDING ⬇️
+
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/1.jpg" height="480" width="310">
+
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/2.jpg" height="480" width="310">
+
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/3.jpg" height="480" width="310">
+
+### Projeto Design NAVEGAÇÃO ⬇️
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/4.jpg" height="480" width="310">
+
+### Projeto Design CRIAR CONTA ⬇️
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/5.jpg" height="480" width="310">
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/6.jpg" height="480" width="310">
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/7.jpg" height="480" width="310">
+
+### Projeto Design LOGIN ⬇️
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/10.jpg" height="480" width="310">
+
+### Projeto Design MODAL DETALHES ⬇️
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/9.jpg" height="480" width="310">
+<img src="https://raw.githubusercontent.com/techjuliana/eGames/main/design/8.jpg" height="480" width="310">
+
 
 ### `expo start`
 
