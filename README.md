@@ -3,7 +3,7 @@
 App eGames
 
 <h3 align="center">
-Feito em React Native, Routes, Navegação por Stack, Modal detalhes e Onboarding
+Feito em React Native, Routes, Picker, Slider, Switch, Navegação por Stack, Modal detalhes e Onboarding
 
 ### Projeto Design ONBOARDING ⬇️
 
